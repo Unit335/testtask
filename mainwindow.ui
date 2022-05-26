@@ -36,7 +36,7 @@
        <item>
         <widget class="QPushButton" name="pushButton_2">
          <property name="text">
-          <string>Вычислить</string>
+          <string>Решить</string>
          </property>
         </widget>
        </item>
